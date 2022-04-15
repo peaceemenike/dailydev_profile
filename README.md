@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/emenikepeace"><img src="https://api.daily.dev/devcards/4571d498c9e846e98b1c49e98423c449.png?r=rhk" width="400" alt="EMENIKE PEACE's Dev Card"/></a>
 <!--
 **emenikepeace/emenikepeace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
