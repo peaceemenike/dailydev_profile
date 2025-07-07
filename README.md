@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my course on sidehustle
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently pursing my PHD in Machine Learning
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...<a href ="https://wwww.twitter.com/EmenikePeace"><a>twitter</a>
+- 📫 How to reach me: ...<a href ="https://wwww.twitter.com/Peaceemenike"><a>twitter</a>
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...I speak Igbo
 -->
