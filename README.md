@@ -1,4 +1,4 @@
-### Hi there, I'm PEACE EMENIKE👋
+### Hi there, I'm PEACE EMENIKE, I'm a Data Scientist/Software Engineer👋
 <a href="https://app.daily.dev/peaceemenike"><img src="https://api.daily.dev/devcards/v2/gw5ciujuIymKDCVYca1HB.png?r=how" width="356" alt="PEACE EMENIKE's Dev Card"/></a>
 <!--
 **emenikepeace/emenikepeace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
